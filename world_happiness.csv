@@ -1,4 +1,4 @@
-Country,Dystopia Residual,Economy (GDP per Capita),Family,Freedom,Generosity,Happiness Rank,Happiness Score,Health (Life Expectancy),Region,Trust (Government Corruption),Year
+Country,Dystopia Residual,Economy,Family,Freedom,Generosity,Happiness Rank,Happiness Score,Health,Region,Trust,Year
 Switzerland,2.5173799999999997,1.3965100000000001,1.34951,0.66557,0.29678000000000004,1,7.587000000000001,0.9414299999999999,Western Europe,0.41978000000000004,2015
 Iceland,2.70201,1.3023200000000001,1.4022299999999999,0.6287699999999999,0.4363,2,7.561,0.94784,Western Europe,0.14145,2015
 Denmark,2.4920400000000003,1.32548,1.36058,0.6493800000000001,0.34139,3,7.527,0.87464,Western Europe,0.48357,2015
